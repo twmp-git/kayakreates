@@ -24,7 +24,9 @@ Internal client or pricing details (Knowledge Pack Part C) are deliberately left
 | 2023 | Kaya Ku Bay | Butterfly Space, Nkhata Bay | ⚠️ year from a May 2024 post ("last year") | 2024 post |
 | Dec 2023 | Dear Lovers | De Oasis | ✅ (2024 posts) | 2024 post |
 | ? | Kaya Sessions, "our first ever event" | ? | ❓ date/venue | 2024 post |
-| ~17 Feb 2024 | "First Kaya Kreates event of the year" (name unknown) | Mzuzu | ⚠️ | none |
+| Tue 13 Feb 2024 | Pre-Valentine Shoot (Kaya Kaptures presents) | Designs by El Shop No. 5, Zigwagwa, Mzuzu | ✅ | backdated (2 posts) |
+| Wed 14 Feb 2024 | A Night of Love & Music (Kwithu Coffee Den presents, Kaya Kreates logo; Twnda acoustic) | Kwithu Coffee Den, Mzuzu | ✅ | backdated (3 posts) |
+| Sat 17 Feb 2024 | Art & Heart: Rhymes & Vibes with Mtameni (Kaya Kreates proudly presents), "first Kaya Kreates event of the year" | Manjolo Village | ✅ | backdated (3 posts) |
 | Sat 6 Apr 2024 | Karaoke & Poetry Night | Kaya Gardens, Mzuzu | ✅ | 2024 post |
 | Sun 2 Jun 2024 | Twnda + Mirriam Nkosi + Kaya Band | Stake Out Bar & Restaurant, Blantyre | ✅ | 2024 post |
 | Sat 6 Jul 2024 | Twnda & The Kaya Band, Live and Unplugged | Kuwala Gardens, Lilongwe | ✅ | 2024 post |
@@ -35,8 +37,9 @@ Internal client or pricing details (Knowledge Pack Part C) are deliberately left
 | Sat 11 Oct 2025 | The Ningenjelwanga Experience | Umunthu Space, Mzuzu | ✅ | backdated (15 posts) |
 | ~8 Nov 2025 | Ayimbi Vol. 1 listening session | Stakeout, Blantyre | ⚠️ (was this Kaya-run?) | none |
 | Sat 14 Feb 2026 | Valentine's at Kwithu: "Dine, Wine & Stay Mine" (Nyavisachi presents; Twnda + DJ Aaron) | Kwithu Kitchen Rooftop Restaurant, Mzuzu | ✅ | backdated (5 posts, 3–24 Feb 2026) |
-| Sun 3 May 2026 | First Sunday Market, ed. 1 | Mzuzu | ⚠️ from a "3 May" teaser | none |
+| Sun 3 May 2026 | First Sunday Market, ed. 1 "VUKA" | Mzuzu | ⚠️ from a "3 May" teaser | none |
 | Sun 7 Jun 2026 | First Sunday Market, ed. 2 | Mzuzu | ✅ | none |
+| Sun 6 Sep 2026 | First Sunday Market (Sept edition) | Mzuzu | ✅ (Drive folder "FSM 6 SEPTEMBER 2026") | none |
 | ~4 Jun 2026 | Liza Mawu street clean-up ("we adopted a street") | Mzuzu | ⚠️ | none |
 | Sun 5 Jul 2026 | First Sunday Market, ed. 3 | Mood Café & Garden, Mzuzu | ✅ | none |
 | Sat 25 Jul 2026 | Liza Mawu: Words Build Worlds (Session 001) | Kwithu Rooftop Kitchen, Mzuzu | ⚠️ pack says 27 Apr 2026 | none |
@@ -148,6 +151,16 @@ Internal client or pricing details (Knowledge Pack Part C) are deliberately left
 - Tickets on ticketyanga.com or MK10,000 at the door.
 - Twnda spoke on "the responsibility of being heard".
 - **Date conflict:** Twnda's posts point to 25 Jul 2026; the pack says 27 Apr 2026.
+
+## Photo galleries (Sketch Media)
+- FSM ed. 1 "VUKA": Drive `1guzLC2NAr_sbs-PimzgeMy8LfcpA_lCU` (listing shows no files)
+- FSM IN PICTURES (NDILI NICE): `1d7WixgE82eYtJOJchI0WpR_22lSNGSs4`
+- FSM ed. 2 gallery: `1vNOMNDc-EyBN2OplPNZItzYqRiDs22a0` (not public)
+- FSM 5 JULY 2026: `1DagMVgiHVlfRFhpfM_Zwr8Avn6G1RrfJ` (PEOPLE / PRODUCTS subfolders)
+- FSM 9 AUGUST 2026: `1NRI0UgvqMJkcH-vkYl3fVjhAexom22tt`
+- FSM 6 SEPTEMBER 2026: `1WTA0VbWe_kjgeC5yMfN3SPCnAvFoXuZy`
+- Unknown: `1M02KvpFC-TuK2_fmFcvww5qoFiMjE_u6` (not public)
+- Owner's guidance: pick a balanced selection across editions (race, age, gender, plus goods and products). Don't bulk-download.
 
 ## Gaps to fill
 
