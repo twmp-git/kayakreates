@@ -34,7 +34,7 @@ Internal client or pricing details (Knowledge Pack Part C) are deliberately left
 | Sat 14 Dec 2024 | Afrobeat & HipHop Hangout | Le Jardin, Area 43, Lilongwe | ✅ | backdated (18 posts) |
 | Sat 11 Oct 2025 | The Ningenjelwanga Experience | Umunthu Space, Mzuzu | ✅ | backdated (15 posts) |
 | ~8 Nov 2025 | Ayimbi Vol. 1 listening session | Stakeout, Blantyre | ⚠️ (was this Kaya-run?) | none |
-| Sat 14 Feb 2026 | Valentine's at Kwithu | Kwithu Kitchen, Mzuzu | ✅ | none (next up) |
+| Sat 14 Feb 2026 | Valentine's at Kwithu: "Dine, Wine & Stay Mine" (Nyavisachi presents; Twnda + DJ Aaron) | Kwithu Kitchen Rooftop Restaurant, Mzuzu | ✅ | backdated (5 posts, 3–24 Feb 2026) |
 | Sun 3 May 2026 | First Sunday Market, ed. 1 | Mzuzu | ⚠️ from a "3 May" teaser | none |
 | Sun 7 Jun 2026 | First Sunday Market, ed. 2 | Mzuzu | ✅ | none |
 | ~4 Jun 2026 | Liza Mawu street clean-up ("we adopted a street") | Mzuzu | ⚠️ | none |
@@ -131,6 +131,16 @@ Internal client or pricing details (Knowledge Pack Part C) are deliberately left
 - Ed. 4: entry MK10,000, tickets at Kwithu Coffee Den and Steady Printers.
 - Hashtags: #uwusondimsika #FSMMZ.
 - Don't post attendance figures. Confirm edition count before using numbers.
+
+### Valentine's at Kwithu: Dine, Wine & Stay Mine (Feb 2026)
+- **Presented by:** Nyavisachi.
+- **When/where:** Sat 14 Feb 2026, 6:30 to 9pm, Kwithu Kitchen Rooftop Restaurant, Mzuzu.
+- **Music:** Twnda and the band, DJ Aaron.
+- **Tickets:** 3-course meal, couples MWK 75,000, single MWK 55,000; snack MWK 20,000. Sold at Kwithu Coffee Den. Couples tickets entered a draw for a private Twnda performance.
+- **Sources (Twnda page):**
+  - 4 Feb 2026: poster
+  - 13 Feb 2026: invite video ("Twnda Live at Kwithu Rooftop")
+  - 1 Mar 2026: flashback video
 
 ### Liza Mawu: Words Build Worlds (2026)
 
