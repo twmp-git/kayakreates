@@ -48,7 +48,7 @@ Last updated 30 Oct 2026. Read this before doing Graph API work on the Kaya Krea
    >
    > Creativity is non-linear.
 
-2. **The 4 original Ningenjelwanga posts** (marked "ninge v1" below) duplicate the new 15. The owner should archive them in Business Suite, or approve deleting them.
+2. ~~The 4 original Ningenjelwanga posts~~: deleted on 30 Oct 2026 with the owner's approval (marked "ninge v1" below).
 3. **Next events, one at a time.** Ask the owner for posters, photos, credits and dates:
    - Valentine's at Kwithu (14 Feb 2026, Kwithu Kitchen)
    - First Sunday Market: ed. 1 Sun 3 May 2026, ed. 2 Sun 7 Jun, ed. 3 Sun 5 Jul, ed. 4 Sun 9 Aug (postponed from 2 Aug). Mood Café & Garden. Confirm Sep/Oct.
@@ -95,7 +95,7 @@ Last updated 30 Oct 2026. Read this before doing Graph API work on the Kaya Krea
 | ningenjelwanga v2 | 2025-10-19T08:27 | 194865463713135_122301633296164388 |
 | ningenjelwanga v2 | 2025-11-02T05:03 | video 1585427216245053 |
 | ningenjelwanga v2 | 2025-11-21T08:36 | video 986096237885791 |
-| ninge v1 (original, now duplicate) | 2025-10-05T12:00 | 194865463713135_122301608324164388 |
-| ninge v1 (original, now duplicate) | 2025-10-10T12:00 | 194865463713135_122301609524164388 |
-| ninge v1 (original, now duplicate) | 2025-10-13T12:00 | 194865463713135_122301610124164388 |
-| ninge v1 (original, now duplicate) | 2025-10-19T12:00 | 194865463713135_122301610454164388 |
+| ninge v1 (DELETED 30 Oct 2026) | 2025-10-05T12:00 | 194865463713135_122301608324164388 |
+| ninge v1 (DELETED 30 Oct 2026) | 2025-10-10T12:00 | 194865463713135_122301609524164388 |
+| ninge v1 (DELETED 30 Oct 2026) | 2025-10-13T12:00 | 194865463713135_122301610124164388 |
+| ninge v1 (DELETED 30 Oct 2026) | 2025-10-19T12:00 | 194865463713135_122301610454164388 |
