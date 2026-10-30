@@ -18,8 +18,8 @@ Internal client or pricing details (Knowledge Pack Part C) are deliberately left
 |---|---|---|---|---|
 | 2018 | Melanonia exhibition | Story Club Café, Lilongwe | ✅ (pack) | none |
 | ? | Melanonia exhibition | KwaHaraba Art Gallery, Blantyre | ❓ date | none |
-| Wed 6 Jul 2022 | Ghetto Youth Festival (GYF 2) | Domasi College Ground "Pa Carpet", Zomba | ✅ | none (pre-dates Page, throwback planned) |
-| Thu 6 Jul 2023 | Ghetto Youth Festival 3 | Domasi College of Education, Zomba | ✅ | none (throwback planned) |
+| Wed 6 Jul 2022 | Ghetto Youth Festival (GYF 2) | Domasi College Ground "Pa Carpet", Zomba | ✅ | throwback, backdated 6–14 Jul 2024 (4 posts) |
+| Thu 6 Jul 2023 | Ghetto Youth Festival 3 | Domasi College of Education, Zomba | ✅ | throwback, backdated 6–11 Jul 2025 (8 posts); "back in 2027" post on 6 Jul 2026 |
 | Fri 7 Jul 2023 | GYF 3 Meet & Greet (Bee Jay, Ace Jizzy) | Matsire Clinic Grounds, Songani | ✅ | none |
 | 2023 | Kaya Ku Bay | Butterfly Space, Nkhata Bay | ⚠️ year from a May 2024 post ("last year") | 2024 post |
 | Dec 2023 | Dear Lovers | De Oasis | ✅ (2024 posts) | 2024 post |

@@ -26,6 +26,13 @@ Last updated 30 Oct 2026. Read this before doing Graph API work on the Kaya Krea
 - **Ningenjelwanga Experience** (Sat 11 Oct 2025, Umunthu Space, Mzuzu, partner Mzuzu Mafia): 15 posts, 26 Sep to 21 Nov 2025. Credit "📷 Mzuzu Mafia". The source media came from Twnda's page.
 - **Afrobeat & HipHop Hangout** (Sat 14 Dec 2024, Le Jardin, Area 43, Lilongwe): 18 posts, 13 Nov to 31 Dec 2024, including 4 guest Spotify playlists and the recap video. Credit "📷 DC28" (day) and "📷 Fatbway Montage" (night). No edition number: Twnda said 2nd, the Drive folder says 3rd.
 
+- **Ghetto Youth Festival:** you can't backdate before the Page's creation date (error 1607025). So GYF 2022 and 2023 went in as anniversary throwbacks:
+  - GYF 2022: 4 posts, 6–14 Jul 2024
+  - GYF 2023: 8 posts incl. 2 reels, 6–11 Jul 2025
+  - "GYF back in 2027": 6 Jul 2026
+  - Credit: The Tribe Hub. Tribe Hub photos and reels were fetched through Facebook's official embed (`plugins/post.php` / `plugins/video.php`) from full post URLs; share links don't work.
+- **Events log:** see `notes/events-log.md`.
+
 ## Open items
 
 1. **Page info.** Needs `pages_manage_metadata`. Then `POST /{page}` with:
