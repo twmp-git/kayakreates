@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kaya Kreates</title>
+<meta name="description" content="Kaya Kreates – creative studio: design, video and music visuals. Home of Twnda, the artist.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,500;9..40,700&display=swap" rel="stylesheet">
+<style>
+  :root { --gold: #E3A93B; --ink: #101014; --paper: #f4f1ea; --muted: #b3afa6; --line: #2a2a30; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body { background: var(--ink); color: var(--paper); font-family: "DM Sans", system-ui, sans-serif; font-weight: 300; line-height: 1.55; }
+  main { max-width: 560px; margin: 0 auto; padding: 64px 20px 40px; text-align: center; }
+  h1 { margin: 0; font-size: 40px; font-weight: 700; letter-spacing: -0.02em; }
+  h1 span { color: var(--gold); }
+  .tagline { margin: 6px 0 28px; color: var(--muted); font-size: 17px; }
+  .pages { display: grid; gap: 12px; margin: 0 0 36px; text-align: left; }
+  .pages div { padding: 16px 18px; border: 1px solid var(--line); border-radius: 10px; }
+  .pages strong { display: block; font-weight: 700; font-size: 16px; }
+  .pages span { color: var(--muted); font-size: 15px; }
+  .contact { font-size: 15px; color: var(--muted); margin: 0 0 40px; }
+  .contact a { color: var(--paper); }
+  details { text-align: left; border-top: 1px solid var(--line); padding: 14px 0; font-size: 14px; color: var(--muted); }
+  details:last-of-type { border-bottom: 1px solid var(--line); }
+  summary { cursor: pointer; color: var(--paper); font-weight: 500; font-size: 15px; }
+  details h3 { color: var(--paper); font-size: 14px; margin: 16px 0 4px; }
+  details p, details ul { margin: 6px 0; }
+  details a { color: var(--gold); }
+  footer { margin-top: 36px; font-size: 13px; color: #6f6b64; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Kaya <span>Kreates</span></h1>
+  <p class="tagline">Creative studio: design, video and music visuals.</p>
+
+  <section class="pages" aria-label="Our pages">
+    <div><strong>Kaya Kreates</strong><span>The studio's page: design, video and music visuals.</span></div>
+    <div><strong>Twnda</strong><span>The artist's page: music, videos and news.</span></div>
+  </section>
+
+  <p class="contact">Questions: <a href="mailto:tawandampando@gmail.com">tawandampando@gmail.com</a></p>
+
+  <details id="privacy">
+    <summary>Privacy policy</summary>
+    <p>Last updated: 30 October 2026</p>
+    <p>This policy covers the Kaya Kreates and Twnda Facebook Pages and "Kreates Twnda Manager", the Meta app we use to publish to them.</p>
+    <h3>What the app does</h3>
+    <p>Kreates Twnda Manager is used only by the Kaya Kreates team. It publishes our own posts to the Kaya Kreates and Twnda Facebook Pages, reads comments and basic statistics on those posts, replies to comments, and reads back each post's ID, link and time so we know what went out.</p>
+    <h3>Information we collect</h3>
+    <p>Only the Pages we manage (and the access tokens Meta issues for them), the content we publish ourselves, the IDs, links and times of those posts, and the comments and statistics Meta shows on them. We do not build profiles of, sell or keep personal information about people who visit, follow, like, comment on or share our posts; those interactions are covered by Meta's own privacy policy.</p>
+    <h3>Sharing</h3>
+    <p>We do not sell, rent or trade any information, and share nothing with third parties except Meta as needed to publish and manage our posts.</p>
+    <h3>Storage</h3>
+    <p>Post records are kept in our private working files. Access tokens are stored as protected secrets.</p>
+    <h3>Children</h3>
+    <p>Our Pages are for a general audience. We do not knowingly collect information from children.</p>
+    <h3>Changes</h3>
+    <p>Any update will appear here with a new date. Questions: <a href="mailto:tawandampando@gmail.com">tawandampando@gmail.com</a></p>
+  </details>
+
+  <details id="data-deletion">
+    <summary>Data deletion</summary>
+    <p>The Kreates Twnda Manager app holds no personal data about members of the public.</p>
+    <h3>Remove the app from your Facebook account</h3>
+    <p>Settings &amp; privacy → Settings → Apps and websites → find "Kreates Twnda Manager" → Remove.</p>
+    <h3>Ask us to delete your data</h3>
+    <p>Email <a href="mailto:tawandampando@gmail.com?subject=Data%20deletion%20request">tawandampando@gmail.com</a> with the subject "Data deletion request" and the account the request is about. We will confirm and delete any information we hold about you within 30 days.</p>
+  </details>
+
+  <footer>© 2026 Kaya Kreates</footer>
+</main>
+<script>
+  // Open the privacy or data-deletion section when the page is visited with #privacy or #data-deletion.
+  const target = document.getElementById(location.hash.slice(1));
+  if (target && target.tagName === "DETAILS") target.open = true;
+</script>
+</body>
+</html>
