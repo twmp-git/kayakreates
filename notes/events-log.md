@@ -37,14 +37,14 @@ Internal client or pricing details (Knowledge Pack Part C) are deliberately left
 | Sat 11 Oct 2025 | The Ningenjelwanga Experience | Umunthu Space, Mzuzu | ✅ | backdated (15 posts) |
 | ~8 Nov 2025 | Ayimbi Vol. 1 listening session | Stakeout, Blantyre | ⚠️ (was this Kaya-run?) | none |
 | Sat 14 Feb 2026 | Valentine's at Kwithu: "Dine, Wine & Stay Mine" (Nyavisachi presents; Twnda + DJ Aaron) | Kwithu Kitchen Rooftop Restaurant, Mzuzu | ✅ | backdated (5 posts, 3–24 Feb 2026) |
-| Sun 3 May 2026 | First Sunday Market, ed. 1 "VUKA" | Mzuzu | ⚠️ from a "3 May" teaser | none |
-| Sun 7 Jun 2026 | First Sunday Market, ed. 2 | Mzuzu | ✅ | none |
-| Sun 6 Sep 2026 | First Sunday Market (Sept edition) | Mzuzu | ✅ (Drive folder "FSM 6 SEPTEMBER 2026") | none |
+| Sun 3 May 2026 | First Sunday Market, ed. 1 | Samelda, Mzuzu | ✅ (poster + photo dates) | backdated (6 posts) |
+| Sun 7 Jun 2026 | First Sunday Market, ed. 2 | Mood Cafe & Garden (Old Samelda), Mzuzu | ✅ | backdated (5 posts, no gallery) |
+| Sun 6 Sep 2026 | First Sunday Market, ed. 5 | Mzuzu (venue not confirmed) | ✅ (photo dates) | backdated (2 posts) |
 | ~4 Jun 2026 | Liza Mawu street clean-up ("we adopted a street") | Mzuzu | ⚠️ | none |
-| Sun 5 Jul 2026 | First Sunday Market, ed. 3 | Mood Café & Garden, Mzuzu | ✅ | none |
+| Sun 5 Jul 2026 | First Sunday Market, ed. 3 | Mood Cafe & Garden, Mzuzu | ✅ | backdated (5 posts) |
 | Sat 25 Jul 2026 | Liza Mawu: Words Build Worlds (Session 001) | Kwithu Rooftop Kitchen, Mzuzu | ⚠️ pack says 27 Apr 2026 | none |
-| Sun 9 Aug 2026 | First Sunday Market, ed. 4 (moved from 2 Aug) | Mood Café & Garden, Mzuzu | ✅ | none |
-| Sep, Oct 2026 | First Sunday Market, later editions | Mood Café & Garden? | ❓ | none |
+| Sun 9 Aug 2026 | First Sunday Market, ed. 4 (moved from 2 Aug after a death in the host community) | Mood Cafe & Garden, Mzuzu | ✅ | backdated (4 posts) |
+| Oct 2026 | First Sunday Market, October edition? | ? | ❓ | none |
 | Sat 31 Oct 2026 | Halloween Sundowner: Spirits & Culture | Mood Café & Garden, Mzuzu | ✅ (pack) | none |
 | ? | End of Year Mixer | ? | ❓ | none |
 | ? | Camp Fire Soul | ? | ❓ | none |
@@ -151,6 +151,17 @@ Internal client or pricing details (Knowledge Pack Part C) are deliberately left
 - Tickets on ticketyanga.com or MK10,000 at the door.
 - Twnda spoke on "the responsibility of being heard".
 - **Date conflict:** Twnda's posts point to 25 Jul 2026; the pack says 27 Apr 2026.
+
+### First Sunday Market: details from the posters
+- **Tagline:** "A Kaya Kommunity Koncept, powered by Aluso Media and Kaya Kreates". Handle: FirstSundayMarketMW. Info: 0880 546 461 / 0997 475 436.
+- **Ed. 1:** Sun 3 May 2026, Samelda, 9am–6pm, entry MK5,000, stalls MK15,000 (max 50). Media partners: Ndili Nice, Xian Creative. "Stall Watch" vendor graphics (Ladies Closet Comeback, Cannas Collection, Fashion PlugMw, Bottled Bliss, Fresh Aps Juice Bar, Perekezi, Temwa's Beads, Rasta Peace Games, Rafik Nyamula Chikwama). Not posted.
+- **Ed. 2:** Sun 7 Jun, Mood Cafe & Garden. Ticket 5,000 / entry 10,000, under-9s free. Stalls: clothes 15k, standard 25k, food 35k, drinks 35k (60 max). Applications closed 4 Jun.
+- **Ed. 3:** Sun 5 Jul. Stalls: clothes 10k, art & agro 15k, general 25k, food 35k, drinks 35k. Raffle and kids' activities.
+- **Ed. 4:** announced for 2 Aug, postponed to 9 Aug by a community notice (1 Aug). Entry 10k. Tickets at Kwithu Coffee Den and Steady Printers.
+- **Not posted yet:**
+  - "MAYOR FSM" photos (courtesy visit to the Mayor, 28 May 2026)
+  - TV interview photo (date and station unknown)
+  - Photo credit for eds. 3–5 (posted without a credit)
 
 ## Photo galleries (Sketch Media)
 - FSM ed. 1 "VUKA": Drive `1guzLC2NAr_sbs-PimzgeMy8LfcpA_lCU` (listing shows no files)
