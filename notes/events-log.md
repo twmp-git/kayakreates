@@ -158,10 +158,12 @@ Internal client or pricing details (Knowledge Pack Part C) are deliberately left
 - **Ed. 2:** Sun 7 Jun, Mood Cafe & Garden. Ticket 5,000 / entry 10,000, under-9s free. Stalls: clothes 15k, standard 25k, food 35k, drinks 35k (60 max). Applications closed 4 Jun.
 - **Ed. 3:** Sun 5 Jul. Stalls: clothes 10k, art & agro 15k, general 25k, food 35k, drinks 35k. Raffle and kids' activities.
 - **Ed. 4:** announced for 2 Aug, postponed to 9 Aug by a community notice (1 Aug). Entry 10k. Tickets at Kwithu Coffee Den and Steady Printers.
-- **Not posted yet:**
-  - "MAYOR FSM" photos (courtesy visit to the Mayor, 28 May 2026)
-  - TV interview photo (date and station unknown)
-  - Photo credit for eds. 3–5 (posted without a credit)
+- **Also posted:**
+  - Times TV interview, ahead of ed. 1 (backdated 28 Apr 2026)
+  - Courtesy call on the Mayor of Mzuzu City, 28 May 2026 (camera date)
+  - "Taonga chomene" thank-you (8 Sep)
+  - "Confidence looks better…" visitor feature (22 Sep), mirroring the FSM page posts
+- **Still open:** photo credit for eds. 3–5 (posted without a credit); the Times TV interview's exact date
 
 ## Photo galleries (Sketch Media)
 - FSM ed. 1 "VUKA": Drive `1guzLC2NAr_sbs-PimzgeMy8LfcpA_lCU` (listing shows no files)
