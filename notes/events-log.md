@@ -45,6 +45,8 @@ Internal client or pricing details (Knowledge Pack Part C) are deliberately left
 | Sat 25 Jul 2026 | Liza Mawu: Words Build Worlds (Session 001) | Kwithu Rooftop Kitchen, Mzuzu | ⚠️ pack says 27 Apr 2026 | none |
 | Sun 9 Aug 2026 | First Sunday Market, ed. 4 (moved from 2 Aug after a death in the host community) | Mood Cafe & Garden, Mzuzu | ✅ | backdated (4 posts) |
 | Oct 2026 | First Sunday Market, October edition? | ? | ❓ | none |
+| Wed 4 Nov 2026 | Art Is Work: creative industry workshop (Kaya Kreates concept, with Millesimal Arts & Entertainment; design by Sketch Media) | Pabwalo Multipurpose Hall, Lilongwe | ✅ | backdated (12 posts, 20 Oct – 9 Nov) |
+| Sun 6 Dec 2026 | First Sunday Market, ed. 6 (Christmas edition) | Mood Cafe & Garden, Mzuzu | ✅ | promo: volunteer call live 18 Nov + 5 scheduled posts (21 Nov – 6 Dec); videos to follow |
 | Sat 31 Oct 2026 | Halloween Sundowner: Spirits & Culture | Mood Café & Garden, Mzuzu | ✅ (pack) | none |
 | ? | End of Year Mixer | ? | ❓ | none |
 | ? | Camp Fire Soul | ? | ❓ | none |
@@ -174,6 +176,23 @@ Internal client or pricing details (Knowledge Pack Part C) are deliberately left
 - FSM 6 SEPTEMBER 2026: `1WTA0VbWe_kjgeC5yMfN3SPCnAvFoXuZy`
 - Unknown: `1M02KvpFC-TuK2_fmFcvww5qoFiMjE_u6` (not public)
 - Owner's guidance: pick a balanced selection across editions (race, age, gender, plus goods and products). Don't bulk-download.
+
+### Art Is Work (Nov 2026)
+- **When/where:** Wed 4 Nov 2026, 8:30am–12pm, Pabwalo Multipurpose Hall, Lilongwe. Free, limited to 40 artists.
+- **Talks:**
+  - Kim of Diamonds: craft and business
+  - Steve Kamdonyo (Mawa Creative): making a living
+  - ProVoice: royalties and publishing
+  - Shipmark: building an audience
+  - National Planning Commission: arts and Malawi 2063 (spokesperson Thom Khanje)
+- **Partners:** National Youth Council of Malawi (Mtameni Kachusa), MRA. Media partners: The Diamond Standard, Controller Chronicles, Mawa Creative Agency, Umatha Daily.
+- **Coverage:** Africa Brief, "Creative Arts Seen as a Driver of Malawi's Economic Growth" (Alinafe Jonas, 4 Nov). Shared on the Page.
+- **Pending:** two Facebook posts and a TikTok (need full links). Owner wants share-with-caption only.
+- **Owner's note:** the concept is Kaya's. Kaya helped execute it and partnered with Sketch Media on design. Mention this subtly, not bluntly.
+
+### First Sunday Market ed. 6 (Dec 2026)
+- **Volunteer flyer:** fixed. The incomplete email was replaced with "Apply online: link in the caption". Form: cognitoforms.com/TheFirstSundayMarket/VolunteerApplicationFirstSundayMarket (deadline 22 Nov).
+- **Stall flyer:** not posted (owner's call). It has conflicting price lists and a copied "Booking includes" list.
 
 ## Gaps to fill
 
