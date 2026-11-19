@@ -6,12 +6,12 @@ Phone-friendly export target: 720×1280. Sharpening and warm teal–orange grade
 
 | Clip | Length | Content | Best English soundbites (seconds) |
 |---|---|---|---|
-| c60f1c44 | 33s | MC welcome, **ed. 2** (likely RayQ) | 0.0 "Good morning, good afternoon, good evening." · 4.3 "Welcome to First Sunday Market, second edition." |
+| c60f1c44 | 33s | MC welcome, **ed. 2** (MC: RayQ) | 0.0 "Good morning, good afternoon, good evening." · 4.3 "Welcome to First Sunday Market, second edition." |
 | 27c0611f | 34s | Interviewer + burger vendor | 0.0 "First Sunday Market. This is the event that you and your family should be coming to." · 14.7 "What has been your experience today?" · 29.4 "All our goods are selling out. So that's great." |
 | cf97e725 | 65s | Interviewer + National Bank rep, **ed. 1** | 20.6 "Being the first experience in Mzuzu, I feel like the turnout is good." · 41.9 Q: "people from Mzuzu don't show up in events like this" · 48.5 A: "Let's own this thing as Mzuzu people… this is our thing, let's support it." |
 | 6b15862c | 119s | Insurance vendor interview | 21.0 "You meet people in this social gathering… everybody's happy. You can interact not just on a business level, even beyond that." |
-| fd5dc57e | 60s | Food vendor (chicken/chips), Chichewa | needs translation |
-| c23c3b1a | 51s | Juice vendor, Chichewa (MK6,000) | needs translation |
+| fd5dc57e | 60s | Food vendor (chicken/chips), Chichewa | visuals only (owner: don't transcribe Chichewa) |
+| c23c3b1a | 51s | Juice vendor, Chichewa (MK6,000) | visuals only |
 | 34b50b35 | 63s | DJ segment, crowd | music |
 | d6806d29 | 63s | B-roll: stalls, kids' bouncy castle, people | no speech |
 | 6257f42e | 63s | B-roll: people, aerial shot | no speech |
@@ -25,8 +25,12 @@ Phone-friendly export target: 720×1280. Sharpening and warm teal–orange grade
 6. **Quick-fire words over faces:** Shop local. Eat. Dance. Mzuzu.
 7. **Product close-up → FSM logo** + Sunday 6 December · Mood Cafe & Garden.
 
+## Decisions (19 Nov 2026)
+- **MC:** RayQ.
+- **Chichewa clips:** no transcription; used as visuals only.
+- **Ed. 6:** the interviewer will ask everyone "One word for the First Sunday Market?" (noted by the owner).
+- **Music:** no Sokosera. Use the slow soul-jazz number from the clips. Candidate: the bed of 6257f42e (aerial b-roll, ~89 BPM, warm and tonal). Waiting for the owner to confirm A (6257f42e) vs B (d6806d29, ~118 BPM).
+- If it's a commercial recording, Facebook may mute or block it. Check the track's source with Sketch Media.
+
 ## Open
-- Confirm the MC's name (RayQ?) and the interviewer's name (for credit).
-- Get English translations of one line each from fd5dc57e and c23c3b1a.
-- At ed. 6, ask everyone "One word for the First Sunday Market?" for the quick-fire section.
-- Get the Sokosera master (the preview uses the 29s Facebook snippet).
+- Interviewer's name (for credit).
