@@ -2,7 +2,7 @@
 
 Nine WhatsApp clips (vertical, 360–480 px wide, FSM logo burnt in top-right), received 16 Nov 2026.
 Transcribed with Whisper (small). The English is reliable; Chichewa/Tumbuka needs a human translation.
-Phone-friendly export target: 720×1280. Sharpening and warm teal–orange grade tested and approved in principle.
+Phone-friendly export target: 720×1280. Sharpening and warm teal–orange grade applied to all nine clips (720×1280, 30fps, H.264 CRF 20), 19 Nov 2026.
 
 | Clip | Length | Content | Best English soundbites (seconds) |
 |---|---|---|---|
@@ -29,7 +29,7 @@ Phone-friendly export target: 720×1280. Sharpening and warm teal–orange grade
 - **MC:** RayQ.
 - **Chichewa clips:** no transcription; used as visuals only.
 - **Ed. 6:** the interviewer will ask everyone "One word for the First Sunday Market?" (noted by the owner).
-- **Music:** no Sokosera. Use the slow soul-jazz number from the clips. Candidate: the bed of 6257f42e (aerial b-roll, ~89 BPM, warm and tonal). Waiting for the owner to confirm A (6257f42e) vs B (d6806d29, ~118 BPM).
+- **Music:** no Sokosera. Use the slow soul-jazz number from the clips. **Confirmed: track A**, from 6257f42e (aerial b-roll), about 89 BPM, 63.8s. Cleaned (de-noise, high-pass, loudness −14 LUFS) and beat-mapped: 95 beats, a beat every 0.673s. Loudest moments around 10s, 20s, 31s and 42s.
 - If it's a commercial recording, Facebook may mute or block it. Check the track's source with Sketch Media.
 
 ## Open
