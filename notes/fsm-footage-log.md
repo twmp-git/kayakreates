@@ -2,7 +2,14 @@
 
 Nine WhatsApp clips (vertical, 360–480 px wide, FSM logo burnt in top-right), received 16 Nov 2026.
 Transcribed with Whisper (small). The English is reliable; Chichewa/Tumbuka needs a human translation.
-Phone-friendly export target: 720×1280. Sharpening and warm teal–orange grade applied to all nine clips (720×1280, 30fps, H.264 CRF 20), 19 Nov 2026.
+Phone-friendly export target: 720×1280. **Grade (owner's choice, 23 Nov 2026): v2 Medium + Sharpen More ×2.**
+- Haze removed (levels 0.14–0.95), gentle S-curve and warmth.
+- Soft highlight roll-off for the harsh sun, so skies and white clothes keep detail.
+- Saturation 1.2×, with less boost on already strong or bright colours.
+- Two passes of 3×3 sharpening.
+- Export: 720×1280, 30 fps, H.264 Main CRF 20, AAC 160k.
+
+The first grade (19 Nov) was rejected: it looked hazy and under-sharpened. LUT: `v2_warm_punch_mid.cube` (kept with the exports).
 
 | Clip | Length | Content | Best English soundbites (seconds) |
 |---|---|---|---|
