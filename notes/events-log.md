@@ -46,7 +46,7 @@ Internal client or pricing details (Knowledge Pack Part C) are deliberately left
 | Sun 9 Aug 2026 | First Sunday Market, ed. 4 (moved from 2 Aug after a death in the host community) | Mood Cafe & Garden, Mzuzu | ✅ | backdated (4 posts) |
 | Oct 2026 | First Sunday Market, October edition? | ? | ❓ | none |
 | Wed 4 Nov 2026 | Art Is Work: creative industry workshop (Kaya Kreates concept, with Millesimal Arts & Entertainment; design by Sketch Media) | Pabwalo Multipurpose Hall, Lilongwe | ✅ | backdated (12 posts, 20 Oct – 9 Nov) |
-| Sun 6 Dec 2026 | First Sunday Market, ed. 6 (Christmas edition) | Mood Cafe & Garden, Mzuzu | ✅ | promo: volunteer call live 18 Nov + 5 scheduled posts (21 Nov – 6 Dec); videos to follow |
+| Sun 6 Dec 2026 | First Sunday Market, ed. 6 (Christmas edition) | Mood Cafe & Garden, Mzuzu | ✅ | promo: volunteer call live 18 Nov + 5 scheduled posts (21 Nov – 6 Dec); swirl promo video (Remotion FSM-Swirl-Promo, 66s, 3 loops) scheduled 24 Nov 17:43, 27 Nov 12:18, 1 Dec 18:36, 4 Dec 12:52 (Malawi) |
 | Sat 31 Oct 2026 | Halloween Sundowner: Spirits & Culture | Mood Café & Garden, Mzuzu | ✅ (pack) | none |
 | ? | End of Year Mixer | ? | ❓ | none |
 | ? | Camp Fire Soul | ? | ❓ | none |
